@@ -16,7 +16,7 @@ The mouse/keyboard event handler needs to propagate the selected cell index.
 *	Support row editing and reflect the changes to the data source 
 Probably define multiple binding methods between the widget and the data source (One way from source, two way, one way from the widget)
 *	Support for variable-height/width rows/columns
-*	Add a subclass to FT and build a one that’s much suited to replace old lists model used in SPEC widgets.
+*	Build an FT subclass that's better suited to replace the old list models used in SPEC widgets.
 
 > Check out the issues for a complete review/discussion over each point 
 
