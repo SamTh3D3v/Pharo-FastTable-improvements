@@ -12,7 +12,7 @@ A detailed roadmap with several milestones that need to be reached during the GS
 *	Finish the missing tests in the Morphic-Widgets-FastTable package.
 *	Support cell selection in the FTTableMorph:
 The mouse/keyboard event handler needs to propagate the selected cell index.
-*“The selection needs to be made cell-aware”
+* “The selection needs to be made cell-aware”
 *	Support row editing and reflect the changes to the data source 
 Probably define multiple binding methods between the widget and the data source (One way from source, two way, one way from the widget)
 *	Support for variable-height/width rows/columns
