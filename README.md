@@ -1,6 +1,6 @@
 # Pharo FastTable improvements
 
-FastTables was integrated into Pharo 5.0 to solve two main problems that old lists’ implementations were facing, first the performance issue, old list’s data source was limited to a couple of hundreds of rows only and second the lack of extensibility since old lists don’t handle complex element morphs very well.
+FastTable was integrated into Pharo 5.0 to solve two main problems that the old lists implementations were facing, first the performance issue, old list’s data source was limited to a couple of hundreds of rows only and second the lack of extensibility since old lists don’t handle complex element morphs very well.
 
 Since their integration, FT and their sub classes have known several improvements allowing them to render multi cells tables, expandable trees and draggable lists but the development is still in its early stage and there are still a lot of work ahead. 
 
