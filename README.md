@@ -4,7 +4,7 @@ FastTables was integrated into Pharo 5.0 to solve two main problems that old lis
 
 Since their integration, FT and their sub classes have known several improvements allowing them to render multi cells tables, expandable trees and draggable lists but the development is still in its early stage and there are still a lot of work ahead. 
 
-The goals of this proposal are to highlight the needed improvements and extensions to build a better FT family widgets that could fulfill much bigger variety of applications. Those changes will be delivered as incremental way based on their severity and importance.
+The goals of this proposal are to highlight the needed improvements and extensions to build a better FT family widgets that could fulfill much bigger variety of applications. Those changes will be delivered in an incremental way based on their severity and importance.
 A detailed roadmap with several milestones that need to be reached during the GSOC period will be delivered.
 
 ## Here are some of defined goals/improvements:
